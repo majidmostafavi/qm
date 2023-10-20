@@ -1,4 +1,4 @@
-# quarkusmongo
+# Quarkus MongoDB
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
